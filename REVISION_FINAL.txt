@@ -1,0 +1,21 @@
+SPATIUMGEO - ENTREGA FINAL
+
+Ajustes incluidos:
+- Compatibilidad revisada para Edge y navegadores principales.
+- Menú móvil inferior.
+- Casos de uso abren solo desde el botón "Saber más".
+- Enlaces del footer a servicios concretos y casos concretos.
+- PIC CATASTRO Y PROPIEDAD con descripción en modal.
+- Imágenes de casos en modal encajadas completas, centradas y sin recortes.
+- Modal adaptado a PC y móvil con proporción real de imagen.
+- Bloque visible SEO eliminado; SEO técnica mantenida en head, sitemap y JSON-LD.
+- Frase de servicios corregida a: "Servicios conectados para capturar, ordenar, analizar y visualizar el territorio con precisión."
+
+Nota: para probar en Edge, descomprimir la carpeta completa antes de abrir index.html o subirla al hosting.
+
+
+Actualización modal sobre toda la web:
+- El modal de casos se mueve al final del <body> al cargar y al abrirse.
+- z-index máximo para que quede por encima de header, footer, menú móvil, canvas y efectos.
+- El menú móvil se oculta mientras el modal está abierto.
+- Se mantienen imágenes encajadas sin recorte y apertura desde footer/casos.

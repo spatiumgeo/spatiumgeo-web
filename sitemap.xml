@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://www.spatiumgeo.com/</loc>
+    <lastmod>2026-05-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <image:image><image:loc>https://www.spatiumgeo.com/assets/hero-smart-city.webp</image:loc><image:title>Cartografía Valencia e inteligencia territorial</image:title></image:image>
+    <image:image><image:loc>https://www.spatiumgeo.com/assets/service-cartografia.webp</image:loc><image:title>Cartografía GIS en Valencia</image:title></image:image>
+    <image:image><image:loc>https://www.spatiumgeo.com/assets/case-gestiones-catastrales-final-1254.webp</image:loc><image:title>PIC CATASTRO Y PROPIEDAD</image:title></image:image>
+  </url>
+</urlset>
