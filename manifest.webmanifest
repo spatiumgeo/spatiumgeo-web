@@ -1,0 +1,13 @@
+{
+  "name": "SPATIUMGEO",
+  "short_name": "SPATIUMGEO",
+  "description": "Consultoría geoespacial, cartografía GIS, LiDAR, análisis territorial y medio ambiente.",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#061526",
+  "theme_color": "#061526",
+  "lang": "es",
+  "icons": [
+    {"src": "assets/apple-touch-icon.png", "sizes": "180x180", "type": "image/png"}
+  ]
+}
