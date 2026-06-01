@@ -1,0 +1,18 @@
+{
+  "name": "SPATIUMGEO - Cartografía | GIS",
+  "short_name": "SPATIUMGEO",
+  "description": "Cartografía técnica, servicios GIS, GML/IVG, inventarios, modelos 3D y documentación técnica para proyectos técnicos.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#111812",
+  "theme_color": "#111812",
+  "lang": "es",
+  "icons": [
+    {
+      "src": "assets/apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    }
+  ]
+}
