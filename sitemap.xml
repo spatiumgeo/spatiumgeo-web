@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://www.spatiumgeo.com/</loc>
+    <lastmod>2026-06-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.00</priority>
+    <image:image>
+      <image:loc>https://www.spatiumgeo.com/assets/og-image.webp</image:loc>
+      <image:title>SPATIUMGEO: cartografía técnica y GIS</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.spatiumgeo.com/cartografia-valencia/</loc>
+    <lastmod>2026-06-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.90</priority>
+    <image:image>
+      <image:loc>https://www.spatiumgeo.com/assets/service-base-grafica-nueva.webp</image:loc>
+      <image:title>Servicios de cartografía en Valencia</image:title>
+    </image:image>
+  </url>
+</urlset>
