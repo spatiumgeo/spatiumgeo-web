@@ -1,6 +1,0 @@
-SPATIUMGEO - revisión Google Console 2026-06-05
-- JSON-LD reserializado con JSON válido estricto.
-- Eliminado @type como matriz en Organization para evitar errores de parseo de datos estructurados.
-- Añadido versionado ?v=20260605-parse-fix a script.js y estilos principales para evitar caché antigua.
-- Reforzado el scroll interno del botón 'Descubre cómo podemos ayudarte' hacia #contacto.
-- Validación local: script.js sin errores de sintaxis; manifest y JSON-LD correctos.
